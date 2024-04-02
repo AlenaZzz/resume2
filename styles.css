@@ -3,7 +3,7 @@
   src: url(./a_CooperBlackNr.ttf) format('ttf'); 
   src: url(./a_CooperBlackNr.woff) format('woff'); 
   } 
-  
+
 body {
     color: #010c09;
     /* background-color: #A98FE7;
@@ -87,17 +87,17 @@ a:visited {
 }
 
 .card h2 {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .list {
-    padding: 20px;
+    padding: 10px;
 }
 
 .list li {
     color: #23352f;
-    margin-bottom: 10px;
-    margin-left: 20px;
+    margin-bottom: 5px;   
+    margin-left: 30px;  
 }
 
 .table {
