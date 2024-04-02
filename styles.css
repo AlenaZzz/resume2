@@ -91,12 +91,13 @@ a:visited {
 }
 
 .list {
-    padding: 40px;
+    padding: 20px;
 }
 
 .list li {
     color: #23352f;
-    margin-bottom: 10px;    
+    margin-bottom: 10px;
+    margin-left: 20px;
 }
 
 .table {
